@@ -10,6 +10,7 @@ Exports your Groove Coaster scores from official website.
 
 *Please consult your main console such as Command Line for Windows or Bash on Nix-based environments to set it up during single session.*
 
+| Name | Description |
 | :-: | :-- |
 | `SESSION_ID` | Account session to use |
 
